@@ -17,10 +17,10 @@
 </p>
 
 ### ☁️ Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DuckDNS-2C8EBB?style=for-the-badge&logo=duckduckgo&logoColor=white"/>
+<p align="center">
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="60">
+  <img src="https://www.duckdns.org/resources/icons/android-chrome-192x192.png" alt="DuckDNS" height="60">
 </p>
 
 ### 🛠️ Ferramentas
