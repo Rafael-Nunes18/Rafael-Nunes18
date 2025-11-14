@@ -8,13 +8,13 @@
 ### 💻 Back-end
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
 </p>
 
 ### 🗄️ Banco de Dados
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="![Uploading microsoft-sql-server-logo-svgrepo-com.svg…]()
+"/>
 </p>
 
 ### ☁️ Cloud
@@ -26,25 +26,23 @@
 
 ### 🛠️ Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
 ## 📚 Sobre mim
 Sou um desenvolvedor backend em formação, com foco em criar soluções reais usando C#, SQL Server e AWS.  
-Estudo no **SENAI** e na **USCS**, onde desenvolvo projetos completos envolvendo banco de dados, APIs, MVC e infraestrutura na nuvem.
+Estudo no **SENAI** e na **USCS**, onde desenvolvo projetos completos envolvendo banco de dados, MVC e infraestrutura na nuvem.
 
 ---
 
 ## 📌 Projetos em Destaque
 🔹 **E-commerce de Crochê (SENAI)**  
 Backend em C#, SQL Server, AWS EC2 e conexão remota com domínio.  
-🔗 *[Adicione o link do repositório aqui]*
+🔗 *[https://github.com/Rafael-Nunes18/Gardenia-Crochet.git]*
 
 ---
 
