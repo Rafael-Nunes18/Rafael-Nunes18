@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" style="margin-right: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50"/>
 </p>
----
 
 ## 📚 Sobre mim
 Sou um desenvolvedor backend em formação, com foco em criar soluções reais usando C#, SQL Server e AWS.  
