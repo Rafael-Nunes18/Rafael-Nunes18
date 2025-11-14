@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Rafael Toledo Nunes</h1>
+<h3 align="center">Desenvolvedor Backend | C# | SQL Server | AWS</h3>
 
-<!--
-**Rafael-Nunes18/Rafael-Nunes18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Back-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+</p>
+
+### 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### ☁️ Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DuckDNS-2C8EBB?style=for-the-badge&logo=duckduckgo&logoColor=white"/>
+</p>
+
+### 🛠️ Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Sobre mim
+Sou um desenvolvedor backend em formação, com foco em criar soluções reais usando C#, SQL Server e AWS.  
+Estudo no **SENAI** e na **USCS**, onde desenvolvo projetos completos envolvendo banco de dados, APIs, MVC e infraestrutura na nuvem.
+
+---
+
+## 📌 Projetos em Destaque
+🔹 **E-commerce de Crochê (SENAI)**  
+Backend em C#, SQL Server, AWS EC2 e conexão remota com domínio.  
+🔗 *[Adicione o link do repositório aqui]*
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Nunes18&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Nunes18&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Como me encontrar
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rafael-nunes  
+- ✉️ **Email:** rafael.nunes1724@gmail.com  
+
+---
+
+<h3 align="center">🚀 Sempre aprendendo, sempre evoluindo.</h3>
