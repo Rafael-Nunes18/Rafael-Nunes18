@@ -13,8 +13,7 @@
 
 ### 🗄️ Banco de Dados
 <p align="left">
-  <img src="![Uploading microsoft-sql-server-logo-svgrepo-com.svg…]()
-"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50"/>
 </p>
 
 ### ☁️ Cloud
