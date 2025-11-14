@@ -17,10 +17,9 @@
 </p>
 
 ### ☁️ Cloud
-<p align="center">
+<p align="left">
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="60">
-  <img src="https://www.duckdns.org/resources/icons/android-chrome-192x192.png" alt="DuckDNS" height="60">
 </p>
 
 ### 🛠️ Ferramentas
