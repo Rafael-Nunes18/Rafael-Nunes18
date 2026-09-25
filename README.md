@@ -27,6 +27,7 @@ public class SoftwareEngineer
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 ---
 
 ### 📌 Featured Repositories
@@ -37,13 +38,11 @@ public class SoftwareEngineer
 | 🧠 [**neetcode-submissions**](https://github.com/Rafael-Nunes18/neetcode-submissions) | Solutions and complexity analysis for NeetCode 150 / LeetCode. | `C#` `Algorithms` |
 
 ---
-
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Nunes18&show_icons=true&theme=dark&hide_border=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Nunes18&layout=compact&theme=dark&hide_border=true" width="380" />
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Nunes18&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
