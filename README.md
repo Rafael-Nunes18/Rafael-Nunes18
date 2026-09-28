@@ -34,7 +34,7 @@ public class SoftwareEngineer
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
-| ⚡ [**MemStack**](https://github.com/Rafael-Nunes18/MemStack) | High-performance in-memory cache engine with LRU eviction policy. | `C#` `.NET` |
+|  |
 | 🧠 [**neetcode-submissions**](https://github.com/Rafael-Nunes18/neetcode-submissions) | Solutions and complexity analysis for NeetCode 150 / LeetCode. | `C#` `Algorithms` |
 
 ---
