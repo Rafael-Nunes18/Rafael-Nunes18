@@ -6,7 +6,6 @@ public class SoftwareEngineer
     public string Name => "Rafael Nunes";
     public string PrimaryLanguage => "C# / .NET";
     public string CurrentFocus => "Data Structures, Algorithms & High-Performance Systems";
-    public string Goal => "Preparing for Amazon SDE Role";
 }
 ```
 
